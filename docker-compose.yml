@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+    - "6543:6543"
+    volumes:
+    - ./crossref_tools:/usr/src/crossref_tools/crossref_tools

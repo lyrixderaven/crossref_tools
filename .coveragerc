@@ -1,0 +1,3 @@
+[run]
+source = crossref_tools
+omit = crossref_tools/test*
