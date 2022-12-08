@@ -2,7 +2,7 @@ pyramid>=1.9a
 appnope==0.1.0
 backports.shutil-get-terminal-size==1.0.0
 bibtexparser==1.0.1
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 colorful==0.4.2
 decorator==4.2.1
